@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/youssef-mohamed-266540248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssef-mohamed-266540248/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100022904524930&mibextid=lqqj4d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100022904524930&mibextid=lqqj4d" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/youssef-mohamed-266540248/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/youssef-mohamed-266540248/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100022904524930" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100022904524930&mibextid=lqqj4d" height="30" width="40" /></a>
 <a href="https://instagram.com/y_o_u_s_s_e_f__4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="y_o_u_s_s_e_f__4" height="30" width="40" /></a>
 </p>
 
