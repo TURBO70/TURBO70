@@ -13,7 +13,7 @@
 <div align="center">
 
   ## Technology Stack: 
-<a href="">[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nestjs,mongodb,mysql,cpp,express,docker,postman,prisma,vscode,ts,postgres,git)](https://skillicons.dev)</a>
+<a href="">[![My Skills](https://skillicons.dev/icons?i=js,nodejs,nestjs,mongodb,linux,mysql,cpp,express,docker,postman,prisma,vscode,ts,postgres,git)](https://skillicons.dev)</a>
 </br>
 <a href="">[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)</a>
 </div>
